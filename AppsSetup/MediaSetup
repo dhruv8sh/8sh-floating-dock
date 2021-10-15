@@ -1,0 +1,2 @@
+sudo pacman -S dragonplayer spotify yay
+yay -S spotify-adblock
