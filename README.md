@@ -9,7 +9,7 @@ A fluent and modern floating layout for Latte Docks!
 # Resources
 Icons used in the screenshots: [BeautyLine](https://www.pling.com/p/1425426)
 
-Widgets:
+## Widgets:
 
   [Event Calendar](https://www.pling.com/p/998901) by Zren
   
@@ -19,7 +19,10 @@ Widgets:
   
   [Window Title Applet](https://www.pling.com/p/1274218) by psifidotos
 
-Default Widgets:
+## Default Widgets:
+
   System Tray
+  
   Latte Tasks
+  
   Application Launcher
