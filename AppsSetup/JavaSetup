@@ -1,2 +1,0 @@
-sudo pacman -S --noconfirm jdk-openjdk intellij-idea-ultimate-edition bluej
-sudo pacman -S androidstudio
