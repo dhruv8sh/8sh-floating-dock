@@ -8,3 +8,12 @@ A fluent and modern floating layout for Latte Docks!
 
 # Resources
 Icons used in the screenshots: [BeautyLine](https://www.pling.com/p/1425426)
+Widgets:
+  [Event Calendar](https://www.pling.com/p/998901) by Zren
+  [Latte Spacer](https://www.pling.com/p/1287102) by psifidotos
+  [Window Buttons Applet](https://www.pling.com/p/1272871) by psifidotos
+  [Window Title Applet](https://www.pling.com/p/1274218) by psifidotos
+Default Widgets:
+  System Tray
+  Latte Tasks
+  Application Launcher
